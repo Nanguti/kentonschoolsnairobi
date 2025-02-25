@@ -67,7 +67,7 @@ export function ContactInfo() {
             Contact Information
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Get in touch with us through any of these channels. We're here to
+            Get in touch with us through any of these channels. We are here to
             help and will respond to your inquiry as soon as possible.
           </p>
         </motion.div>

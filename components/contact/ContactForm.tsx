@@ -40,7 +40,7 @@ export function ContactForm() {
               Send Us a Message
             </h2>
             <p className="text-lg text-muted-foreground">
-              Fill out the form below and we'll get back to you as soon as
+              Fill out the form below and we will get back to you as soon as
               possible. All fields marked with an asterisk (*) are required.
             </p>
           </motion.div>

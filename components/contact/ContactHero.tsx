@@ -43,7 +43,7 @@ export function ContactHero() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-lg md:text-xl mb-12 text-gray-200"
           >
-            Have a question? We're here to help. Reach out to us and our team
+            Have a question? We are here to help. Reach out to us and our team
             will get back to you as soon as possible.
           </motion.p>
 

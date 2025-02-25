@@ -72,7 +72,7 @@ export function JobListings() {
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Explore our current job opportunities and find a role where you can
-            make a difference in students' lives.
+            make a difference in students lives.
           </p>
         </motion.div>
 
