@@ -81,7 +81,7 @@ export function ProgramCards() {
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Discover our comprehensive range of academic programs designed to
-            nurture every student's potential at each stage of their educational
+            nurture every student potential at each stage of their educational
             journey.
           </p>
         </motion.div>
