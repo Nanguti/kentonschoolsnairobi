@@ -45,7 +45,7 @@ export function ContactInfo() {
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Get in touch with us to learn more about our school or to schedule a
-            visit. We're here to answer any questions you may have.
+            visit. We are here to answer any questions you may have.
           </p>
         </motion.div>
 
