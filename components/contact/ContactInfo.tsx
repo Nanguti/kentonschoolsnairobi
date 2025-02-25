@@ -27,9 +27,9 @@ const contactDetails = [
     icon: Mail,
     title: "Email Addresses",
     details: [
-      "info@brookhouse.com",
-      "admissions@brookhouse.com",
-      "support@brookhouse.com",
+      "info@Kenton Schools Nairobi.com",
+      "admissions@Kenton Schools Nairobi.com",
+      "support@Kenton Schools Nairobi.com",
     ],
   },
   {
@@ -45,9 +45,9 @@ const contactDetails = [
     icon: Globe,
     title: "Social Media",
     details: [
-      "Facebook: @BrookhouseSchool",
-      "Twitter: @BrookhouseKE",
-      "Instagram: @brookhouse_school",
+      "Facebook: @Kenton Schools NairobiSchool",
+      "Twitter: @Kenton Schools NairobiKE",
+      "Instagram: @Kenton Schools Nairobi_school",
     ],
   },
 ];

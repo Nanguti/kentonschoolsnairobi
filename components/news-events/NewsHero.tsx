@@ -43,9 +43,9 @@ export function NewsHero() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-lg md:text-xl mb-12 text-gray-200"
           >
-            Stay up to date with the latest happenings at Brookhouse. From
-            student achievements to upcoming events, discover what makes our
-            community special.
+            Stay up to date with the latest happenings at Kenton Schools
+            Nairobi. From student achievements to upcoming events, discover what
+            makes our community special.
           </motion.p>
 
           <motion.div

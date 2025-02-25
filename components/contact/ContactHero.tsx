@@ -13,7 +13,7 @@ export function ContactHero() {
       <div className="absolute inset-0">
         <Image
           src="/contact/contact-hero.jpg"
-          alt="Contact Brookhouse School"
+          alt="Contact Kenton Schools Nairobi School"
           fill
           className="object-cover brightness-50"
           priority

@@ -12,7 +12,7 @@ const leaders = [
     image: "/about/leaders/director.jpg",
     bio: "With over 25 years in international education, Dr. Smith brings extensive experience in curriculum development and school leadership.",
     linkedin: "https://linkedin.com/in/john-smith",
-    email: "director@brookhouse.ac.ke",
+    email: "director@Kenton Schools Nairobi.ac.ke",
   },
   {
     name: "Sarah Johnson",
@@ -20,7 +20,7 @@ const leaders = [
     image: "/about/leaders/secondary-head.jpg",
     bio: "An experienced educator passionate about fostering academic excellence and student wellbeing in secondary education.",
     linkedin: "https://linkedin.com/in/sarah-johnson",
-    email: "secondary@brookhouse.ac.ke",
+    email: "secondary@Kenton Schools Nairobi.ac.ke",
   },
   {
     name: "Michael Chen",
@@ -28,7 +28,7 @@ const leaders = [
     image: "/about/leaders/primary-head.jpg",
     bio: "Dedicated to creating engaging learning environments that nurture young minds and promote holistic development.",
     linkedin: "https://linkedin.com/in/michael-chen",
-    email: "primary@brookhouse.ac.ke",
+    email: "primary@Kenton Schools Nairobi.ac.ke",
   },
 ];
 
@@ -47,8 +47,8 @@ export function AboutLeadership() {
             Our Leadership Team
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Meet the dedicated professionals guiding Brookhouse School towards
-            excellence in education and student development.
+            Meet the dedicated professionals guiding Kenton Schools Nairobi
+            School towards excellence in education and student development.
           </p>
         </motion.div>
 

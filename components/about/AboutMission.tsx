@@ -39,9 +39,9 @@ export function AboutMission() {
             Our Mission & Values
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            At Brookhouse, we are committed to excellence in education and the
-            development of well-rounded individuals prepared for global
-            challenges.
+            At Kenton Schools Nairobi, we are committed to excellence in
+            education and the development of well-rounded individuals prepared
+            for global challenges.
           </p>
         </motion.div>
 
@@ -73,10 +73,10 @@ export function AboutMission() {
           className="mt-16 text-center"
         >
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-            Since our founding in 1981, Brookhouse has maintained an unwavering
-            commitment to academic excellence, personal growth, and the
-            development of future leaders who will make positive contributions
-            to society.
+            Since our founding in 1981, Kenton Schools Nairobi has maintained an
+            unwavering commitment to academic excellence, personal growth, and
+            the development of future leaders who will make positive
+            contributions to society.
           </p>
         </motion.div>
       </div>

@@ -10,7 +10,7 @@ export function SchoolLifeHero() {
       <div className="absolute inset-0">
         <Image
           src="/school-life/hero-bg.jpg"
-          alt="School Life at Brookhouse"
+          alt="School Life at Kenton Schools Nairobi"
           fill
           className="object-cover brightness-50"
           priority
@@ -26,7 +26,7 @@ export function SchoolLifeHero() {
             transition={{ duration: 0.8 }}
             className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6"
           >
-            Life at Brookhouse
+            Life at Kenton Schools Nairobi
           </motion.h1>
 
           <motion.p

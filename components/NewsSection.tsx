@@ -9,7 +9,7 @@ const newsItems = [
   {
     title: "Outstanding A-Level Results 2024",
     excerpt: "Our students achieve exceptional results with 85% A*-B grades.",
-    image: "/news/results.jpg",
+    image: "/images/main-banner.jpg",
     date: "March 15, 2024",
     category: "Academic",
     slug: "/news/outstanding-a-level-results-2024",
@@ -17,15 +17,15 @@ const newsItems = [
   {
     title: "International Arts Festival Success",
     excerpt: "Students showcase talent in music, drama, and visual arts.",
-    image: "/news/arts-festival.jpg",
+    image: "/images/school-activities.jpg",
     date: "March 10, 2024",
     category: "Arts & Culture",
     slug: "/news/international-arts-festival-2024",
   },
   {
     title: "Sports Teams Regional Champions",
-    excerpt: "Brookhouse teams triumph in regional championships.",
-    image: "/news/sports.jpg",
+    excerpt: "Kenton Schools Nairobi teams triumph in regional championships.",
+    image: "/images/swimming-pool.jpg",
     date: "March 5, 2024",
     category: "Sports",
     slug: "/news/sports-teams-regional-champions",
@@ -48,7 +48,7 @@ export function NewsSection() {
           </h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
             Stay updated with the latest happenings, achievements, and events at
-            Brookhouse School.
+            Kenton Schools Nairobi School.
           </p>
         </motion.div>
 

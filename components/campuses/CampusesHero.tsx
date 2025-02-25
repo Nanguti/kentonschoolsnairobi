@@ -9,7 +9,7 @@ export function CampusesHero() {
       <div className="absolute inset-0 z-0">
         <Image
           src="/campuses/hero-bg.jpg"
-          alt="Brookhouse School Campuses"
+          alt="Kenton Schools Nairobi School Campuses"
           fill
           className="object-cover brightness-50"
           priority

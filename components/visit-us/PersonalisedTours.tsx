@@ -45,9 +45,9 @@ export function PersonalisedTours() {
               Personalised Campus Tours
             </h2>
             <p className="text-lg text-muted-foreground mb-8">
-              Experience Brookhouse through a guided tour tailored to your
-              interests. Our staff will show you our facilities and answer all
-              your questions.
+              Experience Kenton Schools Nairobi through a guided tour tailored
+              to your interests. Our staff will show you our facilities and
+              answer all your questions.
             </p>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">

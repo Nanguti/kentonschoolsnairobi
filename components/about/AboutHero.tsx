@@ -10,7 +10,7 @@ export function AboutHero() {
       <div className="absolute inset-0 z-0">
         <Image
           src="/about/hero-bg.jpg"
-          alt="Brookhouse School Campus"
+          alt="Kenton Schools Nairobi School Campus"
           fill
           className="object-cover brightness-50"
           priority
@@ -26,7 +26,7 @@ export function AboutHero() {
           className="max-w-3xl text-white"
         >
           <h1 className="text-5xl md:text-6xl font-bold mb-6">
-            About Brookhouse School
+            About Kenton Schools Nairobi School
           </h1>
           <p className="text-xl md:text-2xl text-white/90">
             A legacy of excellence in education since 1981, nurturing future

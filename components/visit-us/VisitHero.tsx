@@ -13,7 +13,7 @@ export function VisitHero() {
       <div className="absolute inset-0">
         <Image
           src="/visit-us/campus-aerial.jpg"
-          alt="Brookhouse Campus Aerial View"
+          alt="Kenton Schools Nairobi Campus Aerial View"
           fill
           className="object-cover brightness-50"
           priority

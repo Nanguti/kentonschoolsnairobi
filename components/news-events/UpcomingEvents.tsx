@@ -86,8 +86,8 @@ export function UpcomingEvents() {
             Upcoming Events
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Mark your calendar for these exciting events happening at
-            Brookhouse. Join us in celebrating learning, creativity, and
+            Mark your calendar for these exciting events happening at Kenton
+            Schools Nairobi. Join us in celebrating learning, creativity, and
             community.
           </p>
         </motion.div>

@@ -9,15 +9,15 @@ const locations = [
     name: "Karen Campus",
     address: "Magadi Road, Karen, Nairobi, Kenya",
     phone: "+254 (0) 722 204 413",
-    email: "karen@brookhouse.ac.ke",
-    mapUrl: "https://maps.google.com/?q=Brookhouse+School+Karen",
+    email: "karen@Kenton Schools Nairobi.ac.ke",
+    mapUrl: "https://maps.google.com/?q=Kenton Schools Nairobi+School+Karen",
   },
   {
     name: "Runda Campus",
     address: "Kiambu Road, Runda, Nairobi, Kenya",
     phone: "+254 (0) 722 204 414",
-    email: "runda@brookhouse.ac.ke",
-    mapUrl: "https://maps.google.com/?q=Brookhouse+School+Runda",
+    email: "runda@Kenton Schools Nairobi.ac.ke",
+    mapUrl: "https://maps.google.com/?q=Kenton Schools Nairobi+School+Runda",
   },
 ];
 
@@ -37,7 +37,8 @@ export function CampusLocation() {
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Experience our world-class facilities firsthand. Schedule a visit to
-            either of our campuses and discover the Brookhouse difference.
+            either of our campuses and discover the Kenton Schools Nairobi
+            difference.
           </p>
         </motion.div>
 

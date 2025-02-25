@@ -102,10 +102,10 @@ export function ApplicationProcess() {
             For any questions about the application process, please contact our
             HR department at{" "}
             <a
-              href="mailto:careers@brookhouse.com"
+              href="mailto:careers@Kenton Schools Nairobi.com"
               className="text-primary hover:underline"
             >
-              careers@brookhouse.com
+              careers@Kenton Schools Nairobi.com
             </a>
           </p>
         </motion.div>

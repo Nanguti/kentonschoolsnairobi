@@ -19,9 +19,9 @@ export function AdmissionsHero() {
               Join Our <span className="text-primary">Community</span>
             </h1>
             <p className="text-xl text-muted-foreground mb-8">
-              Begin your journey at Brookhouse School, where excellence meets
-              opportunity. We welcome students who are eager to learn, grow, and
-              make a positive impact.
+              Begin your journey at Kenton Schools Nairobi School, where
+              excellence meets opportunity. We welcome students who are eager to
+              learn, grow, and make a positive impact.
             </p>
             <div className="flex flex-wrap gap-4">
               <Link href="/admissions/download-brochure">
@@ -59,4 +59,4 @@ export function AdmissionsHero() {
       </div>
     </section>
   );
-} 
+}

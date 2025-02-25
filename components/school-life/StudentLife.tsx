@@ -77,8 +77,8 @@ export function StudentLife() {
             A Day in the Life
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Experience the vibrant daily life at Brookhouse, where every day
-            brings new opportunities for learning and growth.
+            Experience the vibrant daily life at Kenton Schools Nairobi, where
+            every day brings new opportunities for learning and growth.
           </p>
         </motion.div>
 
@@ -168,7 +168,7 @@ export function StudentLife() {
           className="text-center"
         >
           <h3 className="text-2xl font-semibold mb-6">
-            Experience Brookhouse Life
+            Experience Kenton Schools Nairobi Life
           </h3>
           <div className="flex justify-center gap-4">
             <Link href="/visit-us/personalised-tours">

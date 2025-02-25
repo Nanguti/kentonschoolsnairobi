@@ -58,8 +58,8 @@ export function AlumniEvents() {
             Upcoming Alumni Events
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Stay connected with the Brookhouse community through our regular
-            alumni events and gatherings.
+            Stay connected with the Kenton Schools Nairobi community through our
+            regular alumni events and gatherings.
           </p>
         </motion.div>
 

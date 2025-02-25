@@ -19,7 +19,7 @@ const newsArticles = [
   {
     title: "New Sports Complex Opening Ceremony",
     excerpt:
-      "Brookhouse celebrates the grand opening of our state-of-the-art sports complex, featuring Olympic-standard facilities for multiple sports.",
+      "Kenton Schools Nairobi celebrates the grand opening of our state-of-the-art sports complex, featuring Olympic-standard facilities for multiple sports.",
     image: "/news-events/sports-complex.jpg",
     date: "February 25, 2024",
     category: "Campus Development",

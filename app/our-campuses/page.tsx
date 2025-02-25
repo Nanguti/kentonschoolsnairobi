@@ -4,7 +4,7 @@ import { CampusFacilities } from "@/components/campuses/CampusFacilities";
 import { CampusLocation } from "@/components/campuses/CampusLocation";
 
 export const metadata = {
-  title: "Our Campuses | Brookhouse School",
+  title: "Our Campuses | Kenton Schools Nairobi School",
   description:
     "Explore our world-class campuses in Karen and Runda, featuring state-of-the-art facilities and inspiring learning environments.",
 };

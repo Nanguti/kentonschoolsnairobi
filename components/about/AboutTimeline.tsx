@@ -7,7 +7,7 @@ const timelineEvents = [
     year: "1981",
     title: "Foundation",
     description:
-      "Brookhouse School was established with a vision to provide world-class education in Kenya.",
+      "Kenton Schools Nairobi School was established with a vision to provide world-class education in Kenya.",
   },
   {
     year: "1991",

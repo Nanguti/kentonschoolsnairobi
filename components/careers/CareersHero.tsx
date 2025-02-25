@@ -13,7 +13,7 @@ export function CareersHero() {
       <div className="absolute inset-0">
         <Image
           src="/careers/careers-hero.jpg"
-          alt="Careers at Brookhouse School"
+          alt="Careers at Kenton Schools Nairobi School"
           fill
           className="object-cover brightness-50"
           priority
@@ -45,7 +45,7 @@ export function CareersHero() {
           >
             Join a community of passionate educators and professionals dedicated
             to nurturing the next generation of leaders. Discover rewarding
-            career opportunities at Brookhouse School.
+            career opportunities at Kenton Schools Nairobi School.
           </motion.p>
 
           <motion.div

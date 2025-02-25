@@ -4,9 +4,9 @@ import { AboutTimeline } from "@/components/about/AboutTimeline";
 import { AboutLeadership } from "@/components/about/AboutLeadership";
 
 export const metadata = {
-  title: "About Us | Brookhouse School",
+  title: "About Us | Kenton Schools Nairobi School",
   description:
-    "Learn about Brookhouse School's history, mission, values, and leadership team.",
+    "Learn about Kenton Schools Nairobi School's history, mission, values, and leadership team.",
 };
 
 export default function AboutPage() {

@@ -36,7 +36,7 @@ export function Navbar() {
       <nav className="container flex h-16 items-center justify-between">
         <div className="flex items-center">
           <Link href="/" className="font-bold text-xl">
-            Brookhouse
+            Kenton Schools Nairobi
           </Link>
         </div>
 

@@ -68,7 +68,7 @@ export function Footer() {
             <ul className="mt-4 space-y-2">
               <li>
                 <Link
-                  href="/brookhouse-contact"
+                  href="/Kenton Schools Nairobi-contact"
                   className="text-sm text-muted-foreground hover:text-foreground"
                 >
                   Get in Touch
@@ -123,7 +123,8 @@ export function Footer() {
           </div>
         </div>
         <div className="mt-8 border-t pt-8 text-center text-sm text-muted-foreground">
-          © {new Date().getFullYear()} Brookhouse School. All rights reserved.
+          © {new Date().getFullYear()} Kenton Schools Nairobi School. All rights
+          reserved.
         </div>
       </div>
     </footer>

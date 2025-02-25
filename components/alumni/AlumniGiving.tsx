@@ -15,7 +15,7 @@ const initiatives = [
     icon: GraduationCap,
     title: "Scholarship Fund",
     description:
-      "Support talented students who need financial assistance to access quality education at Brookhouse.",
+      "Support talented students who need financial assistance to access quality education at Kenton Schools Nairobi.",
     impact: "Funded 50+ scholarships last year",
   },
   {
@@ -53,7 +53,7 @@ export function AlumniGiving() {
           className="text-center mb-16"
         >
           <h2 className="text-3xl md:text-4xl font-bold mb-6">
-            Give Back to Brookhouse
+            Give Back to Kenton Schools Nairobi
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Your support helps us maintain excellence in education and create

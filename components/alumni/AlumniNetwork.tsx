@@ -78,9 +78,9 @@ export function AlumniNetwork() {
             Join Our Alumni Network
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Become part of a thriving community of Brookhouse graduates and
-            enjoy exclusive benefits designed to support your personal and
-            professional growth.
+            Become part of a thriving community of Kenton Schools Nairobi
+            graduates and enjoy exclusive benefits designed to support your
+            personal and professional growth.
           </p>
         </motion.div>
 

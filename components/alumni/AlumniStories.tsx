@@ -11,7 +11,7 @@ const stories = [
     role: "Tech Entrepreneur",
     image: "/alumni/alumni-1.jpg",
     quote:
-      "The foundation I received at Brookhouse prepared me for success in the tech industry. The critical thinking and leadership skills I developed here have been invaluable.",
+      "The foundation I received at Kenton Schools Nairobi prepared me for success in the tech industry. The critical thinking and leadership skills I developed here have been invaluable.",
   },
   {
     name: "David Mwangi",
@@ -19,7 +19,7 @@ const stories = [
     role: "Medical Doctor",
     image: "/alumni/alumni-2.jpg",
     quote:
-      "Brookhouse fostered my passion for science and medicine. Today, I'm proud to be making a difference in healthcare, thanks to the strong academic foundation I received.",
+      "Kenton Schools Nairobi fostered my passion for science and medicine. Today, I'm proud to be making a difference in healthcare, thanks to the strong academic foundation I received.",
   },
   {
     name: "Priya Patel",
@@ -27,7 +27,7 @@ const stories = [
     role: "International Diplomat",
     image: "/alumni/alumni-3.jpg",
     quote:
-      "The international perspective and cultural awareness I gained at Brookhouse have been crucial in my diplomatic career. It truly shaped my worldview.",
+      "The international perspective and cultural awareness I gained at Kenton Schools Nairobi have been crucial in my diplomatic career. It truly shaped my worldview.",
   },
 ];
 

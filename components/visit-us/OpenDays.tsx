@@ -49,8 +49,9 @@ export function OpenDays() {
             Upcoming Open Days
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Join us for an immersive experience of life at Brookhouse. Meet our
-            teachers, students, and see our facilities in action.
+            Join us for an immersive experience of life at Kenton Schools
+            Nairobi. Meet our teachers, students, and see our facilities in
+            action.
           </p>
         </motion.div>
 

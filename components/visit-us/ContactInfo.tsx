@@ -17,7 +17,10 @@ const contactDetails = [
   {
     icon: Mail,
     title: "Email",
-    details: ["admissions@brookhouse.com", "info@brookhouse.com"],
+    details: [
+      "admissions@Kenton Schools Nairobi.com",
+      "info@Kenton Schools Nairobi.com",
+    ],
   },
   {
     icon: Clock,

@@ -18,7 +18,7 @@ export function CTASection() {
             transition={{ duration: 0.5 }}
           >
             <h2 className="text-3xl md:text-4xl font-bold mb-6">
-              Begin Your Journey at Brookhouse
+              Begin Your Journey at Kenton Schools Nairobi
             </h2>
             <p className="text-lg mb-8 text-primary-foreground/90">
               Take the first step towards providing your child with an
@@ -32,7 +32,7 @@ export function CTASection() {
               </div>
               <div className="flex items-center gap-3">
                 <Mail className="h-5 w-5" />
-                <span>admissions@brookhouse.ac.ke</span>
+                <span>admissions@Kenton Schools Nairobi.ac.ke</span>
               </div>
               <div className="flex items-center gap-3">
                 <MapPin className="h-5 w-5" />
@@ -51,8 +51,13 @@ export function CTASection() {
                 </Button>
               </Link>
               <Link href="/visit-us/personalised-tours">
-                <Button size="lg" variant="outline" className="border-white">
+                <Button
+                  size="lg"
+                  variant="outline"
+                  className="border-white text-primary"
+                >
                   Book a Tour
+                  <ArrowRight className="ml-2 h-4 w-4" />
                 </Button>
               </Link>
             </div>
@@ -91,7 +96,7 @@ export function CTASection() {
                 },
                 {
                   title: "Contact Us",
-                  href: "/brookhouse-contact",
+                  href: "/Kenton Schools Nairobi-contact",
                 },
               ].map((link, index) => (
                 <Link

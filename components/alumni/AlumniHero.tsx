@@ -13,7 +13,7 @@ export function AlumniHero() {
       <div className="absolute inset-0">
         <Image
           src="/alumni/alumni-hero.jpg"
-          alt="Brookhouse School Alumni"
+          alt="Kenton Schools Nairobi School Alumni"
           fill
           className="object-cover brightness-50"
           priority
@@ -44,8 +44,8 @@ export function AlumniHero() {
             className="text-lg md:text-xl mb-12 text-gray-200"
           >
             Join our vibrant alumni network, reconnect with classmates, and
-            continue being part of the Brookhouse legacy. Your journey with us
-            does not end at graduation.
+            continue being part of the Kenton Schools Nairobi legacy. Your
+            journey with us does not end at graduation.
           </motion.p>
 
           <motion.div

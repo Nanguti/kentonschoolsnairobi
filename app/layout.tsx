@@ -8,7 +8,7 @@ import { Footer } from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Brookhouse School - International School in Nairobi",
+  title: "Kenton Schools Nairobi School - International School in Nairobi",
   description:
     "Leading international school in Nairobi offering British curriculum education from Kindergarten to A-Levels",
 };
