@@ -4,8 +4,8 @@ import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import { Canvas } from "@react-three/fiber";
-import { Float, Stars } from "@react-three/drei";
-import { MeshDistortMaterial, Sphere } from "@react-three/drei";
+import { Stars } from "@react-three/drei";
+// import { MeshDistortMaterial, Sphere } from "@react-three/drei";
 
 // function AnimatedSphere() {
 //   return (
