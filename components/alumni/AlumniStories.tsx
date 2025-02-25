@@ -72,7 +72,7 @@ export function AlumniStories() {
               <div className="p-6">
                 <Quote className="h-8 w-8 text-primary mb-4" />
                 <p className="text-muted-foreground mb-6 italic">
-                  "{story.quote}"
+                  ${"{story.quote}"}
                 </p>
                 <div>
                   <h3 className="text-xl font-semibold">{story.name}</h3>

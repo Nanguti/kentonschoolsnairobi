@@ -45,7 +45,7 @@ export function AlumniHero() {
           >
             Join our vibrant alumni network, reconnect with classmates, and
             continue being part of the Brookhouse legacy. Your journey with us
-            doesn't end at graduation.
+            does not end at graduation.
           </motion.p>
 
           <motion.div
