@@ -66,8 +66,8 @@ export function FAQ() {
             Frequently Asked Questions
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Find answers to common questions about our school. If you can't find
-            what you are looking for, feel free to contact us directly.
+            Find answers to common questions about our school. If you can not
+            find what you are looking for, feel free to contact us directly.
           </p>
         </motion.div>
 

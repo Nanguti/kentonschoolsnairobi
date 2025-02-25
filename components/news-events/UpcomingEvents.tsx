@@ -2,14 +2,7 @@
 
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
-import {
-  Calendar,
-  Clock,
-  MapPin,
-  Users,
-  Bookmark,
-  ArrowRight,
-} from "lucide-react";
+import { Calendar, Clock, MapPin, Bookmark, ArrowRight } from "lucide-react";
 import Link from "next/link";
 
 type EventCategory =
