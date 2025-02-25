@@ -56,7 +56,7 @@ export function HeroSection() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.4 }}
           >
-            Nurturing tomorrow's leaders through excellence in education,
+            Nurturing leaders of tomorrow through excellence in education,
             innovation, and character development.
           </motion.p>
           <motion.div
