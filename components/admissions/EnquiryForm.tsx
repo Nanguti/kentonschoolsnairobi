@@ -77,7 +77,7 @@ export function EnquiryForm() {
                 name="parentName"
                 render={({ field }) => (
                   <FormItem>
-                    <FormLabel>Parent's Name</FormLabel>
+                    <FormLabel>Parent Name</FormLabel>
                     <FormControl>
                       <Input placeholder="Enter your full name" {...field} />
                     </FormControl>
@@ -124,7 +124,7 @@ export function EnquiryForm() {
                 name="childName"
                 render={({ field }) => (
                   <FormItem>
-                    <FormLabel>Child's Name</FormLabel>
+                    <FormLabel>Child Name</FormLabel>
                     <FormControl>
                       <Input placeholder="Enter child's full name" {...field} />
                     </FormControl>

@@ -61,7 +61,7 @@ export function AdmissionsProcess() {
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Our straightforward admissions process ensures we can best support
-            your child's educational journey.
+            your child educational journey.
           </p>
         </motion.div>
 
