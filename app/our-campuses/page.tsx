@@ -18,7 +18,7 @@ export default function CampusesPage() {
           <CampusCard
             name="Karen Campus"
             description="Our flagship campus set in the serene Karen suburb, offering extensive facilities and a nurturing environment for students from Early Years to Sixth Form."
-            image="/campuses/karen.jpg"
+            image="/images/cover.jpg"
             features={[
               "50-acre campus",
               "Olympic-size swimming pool",
@@ -31,7 +31,7 @@ export default function CampusesPage() {
           <CampusCard
             name="Runda Campus"
             description="Our state-of-the-art campus in Runda, designed to provide an innovative learning environment with modern facilities and technology integration."
-            image="/campuses/runda.jpg"
+            image="/images/culture.jpg"
             features={[
               "Purpose-built facilities",
               "Digital learning spaces",

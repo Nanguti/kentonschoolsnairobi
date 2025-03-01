@@ -12,7 +12,7 @@ export function CareersHero() {
       {/* Background Image */}
       <div className="absolute inset-0">
         <Image
-          src="/careers/careers-hero.jpg"
+          src="/images/school-front.jpg"
           alt="Careers at Kenton Schools Nairobi School"
           fill
           className="object-cover brightness-50"

@@ -4,7 +4,7 @@ import { AdmissionsFees } from "@/components/admissions/AdmissionsFees";
 import { EnquiryForm } from "@/components/admissions/EnquiryForm";
 
 export const metadata = {
-  title: "Admissions | Brookhouse School",
+  title: "Admissions | Kenton Schools Nairobi School",
   description:
     "Learn about our admissions process, fees, and how to join our prestigious international school.",
 };

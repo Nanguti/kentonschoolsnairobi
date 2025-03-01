@@ -18,7 +18,7 @@ const activities = [
     icon: FlagTriangleRight,
     description:
       "Comprehensive sports program including football, rugby, cricket, swimming, athletics, and more.",
-    image: "/school-life/sports.jpg",
+    image: "/images/swimming-pool.jpg",
     features: [
       "Professional coaching",
       "Modern facilities",
@@ -32,7 +32,7 @@ const activities = [
     icon: Music,
     description:
       "Rich artistic programs in music, drama, dance, and visual arts.",
-    image: "/school-life/arts.jpg",
+    image: "/images/hero-banner-1.jpg",
     features: [
       "Music ensembles",
       "Drama productions",
@@ -46,7 +46,7 @@ const activities = [
     icon: Users,
     description:
       "Student-led clubs fostering leadership and special interests.",
-    image: "/school-life/clubs.jpg",
+    image: "/images/music.jpg",
     features: [
       "Debate club",
       "STEM society",
@@ -59,7 +59,7 @@ const activities = [
     title: "Global Programs",
     icon: Globe,
     description: "International exchanges and global citizenship initiatives.",
-    image: "/school-life/global.jpg",
+    image: "/images/main-banner.jpg",
     features: [
       "Exchange programs",
       "Model United Nations",

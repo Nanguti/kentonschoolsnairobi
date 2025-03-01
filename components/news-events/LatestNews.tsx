@@ -11,7 +11,7 @@ const newsArticles = [
     title: "Students Excel in International Science Olympiad",
     excerpt:
       "Our students brought home multiple gold medals from this year's International Science Olympiad, showcasing exceptional talent in STEM subjects.",
-    image: "/news-events/science-olympiad.jpg",
+    image: "/images/science-olympiad.jpg",
     date: "February 28, 2024",
     category: "Academic Achievement",
     slug: "science-olympiad-success-2024",
@@ -20,7 +20,7 @@ const newsArticles = [
     title: "New Sports Complex Opening Ceremony",
     excerpt:
       "Kenton Schools Nairobi celebrates the grand opening of our state-of-the-art sports complex, featuring Olympic-standard facilities for multiple sports.",
-    image: "/news-events/sports-complex.jpg",
+    image: "/images/sports-complex.jpg",
     date: "February 25, 2024",
     category: "Campus Development",
     slug: "sports-complex-opening-2024",
@@ -29,7 +29,7 @@ const newsArticles = [
     title: "Annual Arts Festival Showcases Student Creativity",
     excerpt:
       "The annual Arts Festival brought together incredible displays of visual arts, music, and drama from students across all year groups.",
-    image: "/news-events/arts-festival.jpg",
+    image: "/images/hero-banner-1.jpg",
     date: "February 20, 2024",
     category: "Arts & Culture",
     slug: "arts-festival-2024",
@@ -38,7 +38,7 @@ const newsArticles = [
     title: "Community Service Initiative Makes Impact",
     excerpt:
       "Our students' environmental conservation project has successfully planted over 1,000 trees in local communities.",
-    image: "/news-events/community-service.jpg",
+    image: "/images/community_service_project.jpg",
     date: "February 15, 2024",
     category: "Community Outreach",
     slug: "community-service-2024",

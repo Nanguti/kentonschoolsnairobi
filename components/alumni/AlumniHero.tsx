@@ -12,7 +12,7 @@ export function AlumniHero() {
       {/* Background Image */}
       <div className="absolute inset-0">
         <Image
-          src="/alumni/alumni-hero.jpg"
+          src="/images/young-alumni-council_v3.jpeg"
           alt="Kenton Schools Nairobi School Alumni"
           fill
           className="object-cover brightness-50"

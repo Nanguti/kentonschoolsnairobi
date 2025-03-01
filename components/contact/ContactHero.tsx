@@ -12,7 +12,7 @@ export function ContactHero() {
       {/* Background Image */}
       <div className="absolute inset-0">
         <Image
-          src="/contact/contact-hero.jpg"
+          src="/images/school-front.jpg"
           alt="Contact Kenton Schools Nairobi School"
           fill
           className="object-cover brightness-50"

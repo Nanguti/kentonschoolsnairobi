@@ -8,7 +8,7 @@ export function CampusesHero() {
     <section className="relative min-h-[60vh] flex items-center">
       <div className="absolute inset-0 z-0">
         <Image
-          src="/campuses/hero-bg.jpg"
+          src="/images/second-main.jpg"
           alt="Kenton Schools Nairobi School Campuses"
           fill
           className="object-cover brightness-50"

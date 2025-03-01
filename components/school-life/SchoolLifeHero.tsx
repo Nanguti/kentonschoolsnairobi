@@ -9,7 +9,7 @@ export function SchoolLifeHero() {
       {/* Background Image */}
       <div className="absolute inset-0">
         <Image
-          src="/school-life/hero-bg.jpg"
+          src="/images/hero-11.jpg"
           alt="School Life at Kenton Schools Nairobi"
           fill
           className="object-cover brightness-50"

@@ -129,7 +129,7 @@ export function StudentLife() {
               className="relative h-64 rounded-lg overflow-hidden"
             >
               <Image
-                src="/school-life/campus-life.jpg"
+                src="/images/culture.jpg"
                 alt="Campus Life"
                 fill
                 className="object-cover"

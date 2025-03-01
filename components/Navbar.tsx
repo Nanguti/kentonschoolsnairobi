@@ -17,7 +17,7 @@ import {
 
 const navigation = [
   { name: "Home", href: "/" },
-  { name: "Our School", href: "/our-school" },
+  { name: "Our School", href: "/our-school/about-us" },
   { name: "Campuses", href: "/our-campuses" },
   { name: "Admissions", href: "/admissions" },
   { name: "School Life", href: "/school-life" },

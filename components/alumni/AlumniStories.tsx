@@ -9,7 +9,8 @@ const stories = [
     name: "Sarah Johnson",
     graduation: "Class of 2010",
     role: "Tech Entrepreneur",
-    image: "/alumni/alumni-1.jpg",
+    image:
+      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?fit=crop&w=800",
     quote:
       "The foundation I received at Kenton Schools Nairobi prepared me for success in the tech industry. The critical thinking and leadership skills I developed here have been invaluable.",
   },
@@ -17,7 +18,8 @@ const stories = [
     name: "David Mwangi",
     graduation: "Class of 2008",
     role: "Medical Doctor",
-    image: "/alumni/alumni-2.jpg",
+    image:
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?fit=crop&w=800",
     quote:
       "Kenton Schools Nairobi fostered my passion for science and medicine. Today, I'm proud to be making a difference in healthcare, thanks to the strong academic foundation I received.",
   },
@@ -25,7 +27,8 @@ const stories = [
     name: "Priya Patel",
     graduation: "Class of 2012",
     role: "International Diplomat",
-    image: "/alumni/alumni-3.jpg",
+    image:
+      "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?fit=crop&w=800",
     quote:
       "The international perspective and cultural awareness I gained at Kenton Schools Nairobi have been crucial in my diplomatic career. It truly shaped my worldview.",
   },

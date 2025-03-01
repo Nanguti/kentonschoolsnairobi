@@ -9,7 +9,7 @@ export function AboutHero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/about/hero-bg.jpg"
+          src="/images/main-banner.jpg"
           alt="Kenton Schools Nairobi School Campus"
           fill
           className="object-cover brightness-50"

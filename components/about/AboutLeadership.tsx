@@ -9,7 +9,8 @@ const leaders = [
   {
     name: "Dr. John Smith",
     role: "Director",
-    image: "/about/leaders/director.jpg",
+    image:
+      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?fit=crop&w=800",
     bio: "With over 25 years in international education, Dr. Smith brings extensive experience in curriculum development and school leadership.",
     linkedin: "https://linkedin.com/in/john-smith",
     email: "director@Kenton Schools Nairobi.ac.ke",
@@ -17,7 +18,8 @@ const leaders = [
   {
     name: "Sarah Johnson",
     role: "Head of Secondary",
-    image: "/about/leaders/secondary-head.jpg",
+    image:
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?fit=crop&w=800",
     bio: "An experienced educator passionate about fostering academic excellence and student wellbeing in secondary education.",
     linkedin: "https://linkedin.com/in/sarah-johnson",
     email: "secondary@Kenton Schools Nairobi.ac.ke",
@@ -25,7 +27,8 @@ const leaders = [
   {
     name: "Michael Chen",
     role: "Head of Primary",
-    image: "/about/leaders/primary-head.jpg",
+    image:
+      "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?fit=crop&w=800",
     bio: "Dedicated to creating engaging learning environments that nurture young minds and promote holistic development.",
     linkedin: "https://linkedin.com/in/michael-chen",
     email: "primary@Kenton Schools Nairobi.ac.ke",

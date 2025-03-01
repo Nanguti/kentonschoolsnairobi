@@ -12,7 +12,7 @@ export function NewsHero() {
       {/* Background Image */}
       <div className="absolute inset-0">
         <Image
-          src="/news-events/news-hero.jpg"
+          src="/images/hero-banner-1.jpg"
           alt="School News and Events"
           fill
           className="object-cover brightness-50"
