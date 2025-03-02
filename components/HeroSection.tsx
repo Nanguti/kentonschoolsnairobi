@@ -9,8 +9,8 @@ import { useCallback, useEffect, useState, useRef } from "react";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import Autoplay from "embla-carousel-autoplay";
 import { Canvas, useFrame } from "@react-three/fiber";
-import { Stars, useTexture, Sphere } from "@react-three/drei";
-import { Group, Vector3, Mesh } from "three";
+import { Stars, Sphere } from "@react-three/drei";
+import { Group, Mesh } from "three";
 
 // Animated planet component to add more visual interest
 function AnimatedPlanet() {

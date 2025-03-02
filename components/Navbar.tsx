@@ -14,18 +14,40 @@ import {
   SheetTitle,
   SheetTrigger,
 } from "@/components/ui/sheet";
+import {
+  NavigationMenu,
+  NavigationMenuContent,
+  NavigationMenuItem,
+  NavigationMenuLink,
+  NavigationMenuList,
+  NavigationMenuTrigger,
+} from "@/components/ui/navigation-menu";
 import Image from "next/image";
 
 const navigation = [
-  { name: "Home", href: "/" },
-  { name: "Our School", href: "/our-school/about-us" },
-  { name: "Campuses", href: "/our-campuses" },
-  { name: "Admissions", href: "/admissions" },
   { name: "School Life", href: "/school-life" },
   { name: "News & Events", href: "/news-events" },
   { name: "Alumni", href: "/alumni" },
   { name: "Careers", href: "/careers" },
   { name: "Contact", href: "/contact" },
+];
+
+const schoolDropdownItems = [
+  {
+    name: "About Us",
+    href: "/our-school/about-us",
+    description: "Learn about our history, mission, and values",
+  },
+  {
+    name: "Our Campuses",
+    href: "/our-campuses",
+    description: "Explore our world-class facilities",
+  },
+  {
+    name: "Admissions",
+    href: "/admissions",
+    description: "Join our vibrant learning community",
+  },
 ];
 
 export function Navbar() {
@@ -54,8 +76,64 @@ export function Navbar() {
           </Link>
         </div>
 
-        {/* Desktop Navigation */}
+        {/* Desktop Navigation with Dropdown */}
         <div className="hidden md:flex items-center space-x-6 text-sm font-medium">
+          <Link
+            href="/"
+            className={cn(
+              "transition-colors hover:text-foreground/80",
+              pathname === "/" ? "text-foreground" : "text-foreground/60"
+            )}
+          >
+            Home
+          </Link>
+
+          <NavigationMenu>
+            <NavigationMenuList>
+              <NavigationMenuItem>
+                <NavigationMenuTrigger
+                  className={cn(
+                    "transition-colors hover:text-foreground/80 bg-transparent",
+                    pathname.startsWith("/our-school") ||
+                      pathname === "/our-campuses" ||
+                      pathname === "/admissions"
+                      ? "text-foreground"
+                      : "text-foreground/60"
+                  )}
+                >
+                  Our School
+                </NavigationMenuTrigger>
+                <NavigationMenuContent>
+                  <ul className="grid w-[400px] gap-3 p-4">
+                    {schoolDropdownItems.map((item) => (
+                      <li key={item.href}>
+                        <NavigationMenuLink asChild>
+                          <Link
+                            href={item.href}
+                            className={cn(
+                              "block select-none space-y-1 rounded-md p-3 leading-none no-underline outline-none transition-colors hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground",
+                              pathname === item.href
+                                ? "bg-accent text-accent-foreground"
+                                : "transparent"
+                            )}
+                            onClick={() => setIsOpen(false)}
+                          >
+                            <div className="text-sm font-medium leading-none">
+                              {item.name}
+                            </div>
+                            <p className="line-clamp-2 text-sm leading-snug text-muted-foreground">
+                              {item.description}
+                            </p>
+                          </Link>
+                        </NavigationMenuLink>
+                      </li>
+                    ))}
+                  </ul>
+                </NavigationMenuContent>
+              </NavigationMenuItem>
+            </NavigationMenuList>
+          </NavigationMenu>
+
           {navigation.map((item) => (
             <Link
               key={item.href}
@@ -88,6 +166,37 @@ export function Navbar() {
               </SheetHeader>
               <div className="py-6">
                 <nav className="flex flex-col space-y-4">
+                  <Link
+                    href="/"
+                    className={cn(
+                      "block text-lg transition-colors hover:text-foreground/80",
+                      pathname === "/"
+                        ? "text-foreground font-medium"
+                        : "text-foreground/60"
+                    )}
+                    onClick={() => setIsOpen(false)}
+                  >
+                    Home
+                  </Link>
+                  {/* Our School section in mobile menu */}
+                  <div className="space-y-3">
+                    <div className="font-medium text-lg">Our School</div>
+                    {schoolDropdownItems.map((item) => (
+                      <Link
+                        key={item.href}
+                        href={item.href}
+                        className={cn(
+                          "block text-base transition-colors hover:text-foreground/80 pl-4",
+                          pathname === item.href
+                            ? "text-foreground font-medium"
+                            : "text-foreground/60"
+                        )}
+                        onClick={() => setIsOpen(false)}
+                      >
+                        {item.name}
+                      </Link>
+                    ))}
+                  </div>
                   {navigation.map((item) => (
                     <Link
                       key={item.href}
