@@ -14,6 +14,7 @@ import {
   SheetTitle,
   SheetTrigger,
 } from "@/components/ui/sheet";
+import Image from "next/image";
 
 const navigation = [
   { name: "Home", href: "/" },
@@ -34,9 +35,22 @@ export function Navbar() {
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <nav className="container flex h-16 items-center justify-between">
-        <div className="flex items-center">
-          <Link href="/" className="font-bold text-xl">
-            Kenton Schools Nairobi
+        <div className="flex items-center space-x-3">
+          <Link href="/" className="flex items-center space-x-3">
+            <Image
+              src="/images/Kenton-College-Prep-School-Logo.avif"
+              alt="Kenton Schools Logo"
+              width={40}
+              height={40}
+              className="object-contain"
+              priority
+            />
+            <div className="flex flex-col">
+              <span className="font-bold text-xl text-primary">
+                Kenton College Preparatory
+              </span>
+              <span className="text-sm text-primary">School</span>
+            </div>
           </Link>
         </div>
 

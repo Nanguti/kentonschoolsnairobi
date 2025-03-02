@@ -1,0 +1,10 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Shield background -->
+  <path d="M20 2L4 8V20C4 30 20 38 20 38C20 38 36 30 36 20V8L20 2Z" fill="#6b21a8" />
+  <!-- Book symbol -->
+  <path d="M14 14H26V26H14V14ZM16 16V24H24V16H16Z" fill="white" />
+  <!-- Pages -->
+  <path d="M17 17H23V23H17V17Z" fill="white" />
+  <!-- Graduation cap -->
+  <path d="M20 12L16 14V18L20 20L24 18V14L20 12Z" fill="white" />
+</svg> 
