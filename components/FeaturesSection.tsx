@@ -19,11 +19,12 @@ import {
   Palette,
   ChevronRight,
   ArrowRight,
+  LucideIcon,
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 interface FeatureType {
-  icon: any;
+  icon: LucideIcon;
   title: string;
   description: string;
   color: string;
