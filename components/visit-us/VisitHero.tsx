@@ -12,7 +12,7 @@ export function VisitHero() {
       {/* Background Image */}
       <div className="absolute inset-0">
         <Image
-          src="/visit-us/campus-aerial.jpg"
+          src="/images/school-front.jpg"
           alt="Kenton Schools Nairobi Campus Aerial View"
           fill
           className="object-cover brightness-50"
@@ -66,7 +66,7 @@ export function VisitHero() {
               className="bg-white/10 hover:bg-white/20 border-white"
             >
               <Link href="#open-days">
-                <Calendar className="mr-2 h-4 w-4" />
+                <Calendar className="mr-2 h-4 w-4 hover:bg-white" />
                 View Open Days
               </Link>
             </Button>

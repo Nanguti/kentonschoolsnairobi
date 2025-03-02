@@ -40,7 +40,7 @@ export function CTASection() {
               </div>
             </div>
             <div className="flex flex-wrap gap-4">
-              <Link href="/enquire-now">
+              <Link href="/contact">
                 <Button
                   size="lg"
                   variant="secondary"
@@ -50,7 +50,7 @@ export function CTASection() {
                   <ArrowRight className="ml-2 h-4 w-4" />
                 </Button>
               </Link>
-              <Link href="/visit-us/personalised-tours">
+              <Link href="/visit-us#personalised-tours">
                 <Button
                   size="lg"
                   variant="outline"

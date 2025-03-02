@@ -214,7 +214,7 @@ export function HeroSection() {
               variants={itemVariants}
               className="flex flex-wrap gap-4"
             >
-              <Link href="/enquire-now">
+              <Link href="/contact">
                 <Button
                   size="lg"
                   className="text-lg group relative overflow-hidden"
@@ -234,7 +234,7 @@ export function HeroSection() {
                 <Button
                   size="lg"
                   variant="outline"
-                  className="text-lg border-2 hover:bg-primary/10 transition-all duration-300"
+                  className="text-lg border-2 hover:bg-primary/10 hover:text-white transition-all duration-300"
                 >
                   Learn More
                 </Button>

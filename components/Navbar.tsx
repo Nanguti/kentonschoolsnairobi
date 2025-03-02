@@ -27,6 +27,7 @@ import Image from "next/image";
 const navigation = [
   { name: "School Life", href: "/school-life" },
   { name: "News & Events", href: "/news-events" },
+  { name: "Book a Tour", href: "/visit-us" },
   { name: "Alumni", href: "/alumni" },
   { name: "Careers", href: "/careers" },
   { name: "Contact", href: "/contact" },
@@ -69,9 +70,8 @@ export function Navbar() {
             />
             <div className="flex flex-col">
               <span className="font-bold text-xl text-primary">
-                Kenton College Preparatory
+                Kenton College Preparatory School
               </span>
-              <span className="text-sm text-primary">School</span>
             </div>
           </Link>
         </div>
